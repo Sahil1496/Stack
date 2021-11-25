@@ -1,0 +1,4 @@
+E:/Companies/Cadence/Practice_Codes/Stack_Problem/build/CMakeFiles/Stack.dir
+E:/Companies/Cadence/Practice_Codes/Stack_Problem/build/CMakeFiles/INSTALL.dir
+E:/Companies/Cadence/Practice_Codes/Stack_Problem/build/CMakeFiles/ALL_BUILD.dir
+E:/Companies/Cadence/Practice_Codes/Stack_Problem/build/CMakeFiles/ZERO_CHECK.dir

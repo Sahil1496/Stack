@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Companies\Cadence\Practice_Codes\Stack_Problem\build\CMakeFiles\be24e8bd2077ad7d737dfbc27cbd305f\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F15A6F06-5F23-3D31-A526-E963F7A0A840}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

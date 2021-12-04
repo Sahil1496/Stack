@@ -6,6 +6,7 @@
 
 template <typename T>
 class Stack{
+    
     public:
         Stack(int len=4);
         void push_data(T data);
